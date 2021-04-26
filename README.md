@@ -6,6 +6,6 @@ This repository is for short projects, mostly to interface with a sensor or a de
 [Blog post](https://gajdicookbook.wordpress.com/2021/04/26/arduino-lm35-temperature-sensor-1/)
 
 * **lm35:** Read the ADC value from pin A0, and print the temperature to Serial.
+![lm35-fritzing](img/arduino-lm35-fitzing.png)
 * **lm35_lcd:** Read the ADC value from pin A0, and print the temperature on an LCD and to Serial.
-
-![project](img/arduino-lm35.png)
+![lm35-project](img/arduino-lm35.png)
